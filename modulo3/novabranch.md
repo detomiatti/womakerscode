@@ -6,7 +6,10 @@ git checkout -b nome
 
 2. Crie uma pasta nova dentro do VC Code, neste caso terá o mesmo nome que a branch nova "modulo3", onde estou adicionando essas informações
 
-3. Dentro da branch nova, dê um git add . 
+3. Dentro da branch nova, dê um git add .
+
+4. Faça um push
+git push --set-upstream origin modulo3
 
 Comandos adicionais importantes: 
 
